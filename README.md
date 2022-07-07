@@ -15,15 +15,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisantogaribay&theme=dark" alt="crisantogaribay" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 15 Contributions in the Year 2022
  > 
-> 📦 92 Bytes Used in GitHub's Storage 
+> 📦 94 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,23 +60,30 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 8 mins         ███████████████████░░░░░░   76.97% 
+Java                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.68% 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 28 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CrisantoGaribay          1 hr 9 mins         ███████████████████░░░░░░   78.36% 
+deliveries-service       16 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
+stendalWorkPlace         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
+test                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 28 mins        █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     1 repo              █████████████████████████   100.0%
+Java                     2 repos             █████████████████████████   100.0%
 
 ```
 
@@ -86,5 +93,5 @@ Java                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrisantoGaribay/CrisantoGaribay/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/07/2022 02:36:32 UTC
+ Last Updated on 07/07/2022 18:56:58 UTC
 <!--END_SECTION:waka-->
