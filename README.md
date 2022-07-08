@@ -15,15 +15,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisantogaribay&theme=dark" alt="crisantogaribay" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 15 Contributions in the Year 2022
  > 
-> 📦 96 Bytes Used in GitHub's Storage 
+> 📦 98 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,24 +60,22 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 1 hr 8 mins         ███████████████████░░░░░░   76.96% 
-Java                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+Markdown                 1 hr 7 mins         ████████████████████████░   95.99% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37% 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-IntelliJ                 1 hr 28 mins        █████████████████████████   100.0%
+IntelliJ                 1 hr 10 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-CrisantoGaribay          1 hr 9 mins         ███████████████████░░░░░░   78.35% 
-deliveries-service       16 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
-stendalWorkPlace         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
-test                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23% 
-Crisanto-Garibay-Training0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+CrisantoGaribay          1 hr 9 mins         ████████████████████████░   98.41% 
+test                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
+Crisanto-Garibay-Training0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.0%
+Windows                  1 hr 10 mins        █████████████████████████   100.0%
 
 ```
 
@@ -94,5 +92,5 @@ Java                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrisantoGaribay/CrisantoGaribay/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/07/2022 16:23:18 UTC
+ Last Updated on 08/07/2022 18:55:46 UTC
 <!--END_SECTION:waka-->
