@@ -15,39 +15,39 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisantogaribay&theme=dark" alt="crisantogaribay" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 20 Contributions in the Year 2022
+> 🏆 23 Contributions in the Year 2022
  > 
-> 📦 239 Bytes Used in GitHub's Storage 
+> 📦 248 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    5 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌆 Daytime    8 commits      █████████████░░░░░░░░░░░░   53.33% 
-🌃 Evening    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+🌞 Morning    5 commits      ███████░░░░░░░░░░░░░░░░░░   29.41% 
+🌆 Daytime    10 commits     ██████████████░░░░░░░░░░░   58.82% 
+🌃 Evening    2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Wednesday    12 commits     ████████████████████░░░░░   80.0% 
+Monday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Tuesday      3 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Wednesday    12 commits     █████████████████░░░░░░░░   70.59% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Friday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -84,7 +84,7 @@ Windows                  3 hrs 26 mins       ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     4 repos             █████████████████████████   100.0%
+Java                     5 repos             █████████████████████████   100.0%
 
 ```
 
@@ -94,5 +94,5 @@ Java                     4 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrisantoGaribay/CrisantoGaribay/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/07/2022 18:56:42 UTC
+ Last Updated on 12/07/2022 23:13:25 UTC
 <!--END_SECTION:waka-->
