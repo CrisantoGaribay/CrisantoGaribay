@@ -15,15 +15,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisantogaribay&theme=dark" alt="crisantogaribay" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 28 Contributions in the Year 2022
  > 
-> 📦 367 Bytes Used in GitHub's Storage 
+> 📦 370 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,5 +94,5 @@ Java                     5 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrisantoGaribay/CrisantoGaribay/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/07/2022 18:51:59 UTC
+ Last Updated on 18/07/2022 18:56:41 UTC
 <!--END_SECTION:waka-->
