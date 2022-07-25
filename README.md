@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 38 Contributions in the Year 2022
  > 
-> 📦 393 Bytes Used in GitHub's Storage 
+> 📦 395 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,5 +94,5 @@ Java                     6 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrisantoGaribay/CrisantoGaribay/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2022 18:55:52 UTC
+ Last Updated on 25/07/2022 18:59:40 UTC
 <!--END_SECTION:waka-->
