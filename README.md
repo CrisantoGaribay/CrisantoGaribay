@@ -15,7 +15,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisantogaribay&theme=dark" alt="crisantogaribay" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -23,7 +23,7 @@
 
 > 🏆 38 Contributions in the Year 2022
  > 
-> 📦 405 Bytes Used in GitHub's Storage 
+> 📦 407 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,20 +60,20 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     3 hrs 12 mins       █████████████████████████   99.57% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+Java                     5 hrs 6 mins        █████████████████████████   99.73% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-IntelliJ                 3 hrs 13 mins       █████████████████████████   100.0%
+IntelliJ                 5 hrs 7 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-algorithms-gradle        2 hrs 36 mins       ████████████████████░░░░░   80.78% 
-user_registration_microse36 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.89% 
-Crisanto-Garibay-Training0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+algorithms-gradle        4 hrs 29 mins       ██████████████████████░░░   87.89% 
+user_registration_microse36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
+Crisanto-Garibay-Training0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21%
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.0%
+Windows                  5 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
@@ -90,5 +90,5 @@ Java                     6 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrisantoGaribay/CrisantoGaribay/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/07/2022 18:51:46 UTC
+ Last Updated on 31/07/2022 18:52:11 UTC
 <!--END_SECTION:waka-->
