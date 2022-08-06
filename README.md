@@ -15,7 +15,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisantogaribay&theme=dark" alt="crisantogaribay" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -23,7 +23,7 @@
 
 > 🏆 49 Contributions in the Year 2022
  > 
-> 📦 439 Bytes Used in GitHub's Storage 
+> 📦 441 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,21 +60,24 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     5 hrs 33 mins       ███████████████████████░░   93.75% 
-XML                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Java                     10 hrs 56 mins      █████████████████████░░░░   86.68% 
+XML                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
+Properties               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.28% 
+GitIgnore file           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
 
 🔥 Editors: 
-IntelliJ                 5 hrs 55 mins       █████████████████████████   100.0%
+IntelliJ                 12 hrs 11 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-algorithms-gradle        4 hrs 45 mins       ████████████████████░░░░░   80.29% 
-Crisanto-Garibay-Training55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
-user_registration_microse14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.98%
+camel_course             7 hrs 55 mins       ███████████░░░░░░░░░░░░░░   46.49% 
+algorithms-gradle        6 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   39.45% 
+Crisanto-Garibay-Training1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+camel-main               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
+Unknown Project          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
 
 💻 Operating System: 
-Windows                  5 hrs 55 mins       █████████████████████████   100.0%
+Windows                  12 hrs 11 mins      █████████████████████████   100.0%
 
 ```
 
@@ -91,5 +94,5 @@ Java                     6 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrisantoGaribay/CrisantoGaribay/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/08/2022 18:54:32 UTC
+ Last Updated on 06/08/2022 18:44:13 UTC
 <!--END_SECTION:waka-->
