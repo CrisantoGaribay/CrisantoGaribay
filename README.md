@@ -15,7 +15,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisantogaribay&theme=dark" alt="crisantogaribay" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -94,5 +94,5 @@ Java                     9 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrisantoGaribay/CrisantoGaribay/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2022 18:45:04 UTC
+ Last Updated on 28/08/2022 18:45:14 UTC
 <!--END_SECTION:waka-->
