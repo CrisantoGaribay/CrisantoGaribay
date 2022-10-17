@@ -94,5 +94,5 @@ Java                     9 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrisantoGaribay/CrisantoGaribay/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2022 18:51:51 UTC
+ Last Updated on 17/10/2022 19:10:28 UTC
 <!--END_SECTION:waka-->
